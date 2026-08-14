@@ -185,7 +185,7 @@ const FILL = {
 
 /* QUESTÃO DE ORDENAR (order) */
 const ORDER = {
-  meta:"Ordene as etapas",
+  meta:"Ordene as etapas do caminho do oxigênio, da entrada de ar até a entrega às células",
   titulo:"Trajeto da oxigenação",
   intro:"Ordene as etapas do caminho do oxigênio, da entrada de ar até a entrega às células.",
   correct:[
